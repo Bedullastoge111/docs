@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: 
-Sitemap: http://hospital.gunadarma.ac.id/cgi-bin/slot-online/sitemap.xml
+Sitemap: http://chat.gunadarma.ac.id/wp-admin/js/slot-gacor/sitemap.xml
