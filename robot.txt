@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: http://chat.gunadarma.ac.id/wp-admin/js/slot-gacor/sitemap.xml
