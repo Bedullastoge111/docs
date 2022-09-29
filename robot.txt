@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://cssc.gunadarma.ac.id/wp-admin/slot-gacor/sitemap.xml
