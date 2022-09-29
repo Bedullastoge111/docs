@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://indopedia.gunadarma.ac.id/cgi-bin/slot88-rtp-live/sitemap.xml
